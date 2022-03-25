@@ -31,6 +31,7 @@ Para utilizar o profile do Miniconda
 
 - Ir em configurações padrões (`>Preferences: Open Default Settings (JSON)`) e procurar por profiles.windows
 - Copiar o trecho do profiles do **Command Prompt**
+- Colar o trecho do profiles nas configurações "pessoais" (`>Preferences: Open Settings (JSON)`)
 - Modificar o nome do profile para **Command Prompt (Anaconda)**
 - Definir o profile padrão **Command Prompt (Anaconda)** através do comando `>Terminal: Select Default Profile`
 
