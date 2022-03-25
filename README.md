@@ -24,7 +24,7 @@ Make Jupyter venv **TODO**
 Instale o git utilizando o seguinte link:
 - https://git-scm.com/
 
-Instale o python utilizando o seguinte link
+Instale o python utilizando o seguinte link:
 - https://docs.conda.io/en/latest/miniconda.html
 
 Para utilizar o profile do Miniconda
